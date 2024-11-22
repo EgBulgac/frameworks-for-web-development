@@ -1,7 +1,9 @@
-````markdown
+```markdown
 # Blog Project
 
-This is a simple blog application built with PHP and MySQL. It allows users to register, log in, create posts, update posts, delete posts, and view individual posts. The project uses a dark theme and includes authentication and authorization features.
+This is a simple blog application built with PHP and MySQL.
+It allows users to register, log in, create posts, update posts, delete posts, and view individual posts.
+The project uses a dark theme and includes authentication and authorization features.
 
 ## Features
 
@@ -26,11 +28,11 @@ Follow these steps to set up the project on your local machine.
 ### 1. Clone the repository
 
 Clone this repository to your local machine.
+```
 
 ```bash
 git clone https://github.com/your-username/blog-project.git
 ```
-````
 
 ### 2. Set up the database
 
