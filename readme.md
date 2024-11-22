@@ -1,4 +1,3 @@
-```markdown
 # Blog Project
 
 This is a simple blog application built with PHP and MySQL.
@@ -28,7 +27,6 @@ Follow these steps to set up the project on your local machine.
 ### 1. Clone the repository
 
 Clone this repository to your local machine.
-```
 
 ```bash
 git clone https://github.com/your-username/blog-project.git
