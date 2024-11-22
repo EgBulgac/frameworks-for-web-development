@@ -1,6 +1,6 @@
-CREATE DATABASE test_db;
+CREATE DATABASE fdaw_ind;
 
-USE test_db;
+USE fdaw_ind;
 
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
