@@ -1,4 +1,3 @@
-````markdown
 # Теоретическая часть
 
 ### Какой метод HTTP был использован для отправки запроса?
@@ -50,7 +49,6 @@
 ```bash
 curl -X GET http://sandbox.com -H "User-Agent: John Doe"
 ```
-````
 
 Ответ сервера:
 
@@ -230,8 +228,4 @@ Content-Type: application/json
   "error": "Internal Server Error",
   "message": "An unexpected error occurred while processing your request"
 }
-```
-
-```
-
 ```
