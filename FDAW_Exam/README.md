@@ -28,13 +28,13 @@ FDAW_Exam/
 1. **Клонируйте проект:**
 
    ```bash
-   git clone https://github.com/your-repo/movie-manager.git
-   cd movie-manager
+   gh repo clone EgBulgac/frameworks-for-web-development
+   cd FDAW_Exam
    ```
 
 2. **Настройте базу данных:**
 
-   - Создайте базу данных `movie_manager` в вашем MySQL сервере.
+   - Создайте базу данных `film_manager` в вашем MySQL сервере.
    - Выполните SQL-запрос для создания таблицы:
 
      ```sql
@@ -54,9 +54,9 @@ FDAW_Exam/
 
    ```php
    private $host = "localhost";
-   private $db_name = "movie_manager";
+   private $db_name = "film_manager";
    private $username = "root"; // Ваше имя пользователя
-   private $password = "";     // Ваш пароль
+   private $password = "root";     // Ваш пароль
    ```
 
 4. **Запустите сервер:**
